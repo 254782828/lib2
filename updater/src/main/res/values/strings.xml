@@ -1,0 +1,8 @@
+<resources>
+
+  <string name="update_tv_title">版本更新</string>
+  <string name="update_btn_cancel">取消</string>
+  <string name="update_btn_download">下载</string>
+  <string name="force_checking">正在检查更新&#8230;</string>
+
+</resources>

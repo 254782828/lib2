@@ -1,9 +1,16 @@
-*.iml
-.gradle
+# IntelliJ IDEA
 .idea
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
+*.iml
+
+# Android Studio
+captures
+
+# Gradle
+.gradle
+gradlew.bat
+build
+local.properties
+reports
+
+# Apple
 .DS_Store
-/build
-/captures

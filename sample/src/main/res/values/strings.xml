@@ -1,0 +1,7 @@
+<resources>
+
+  <string name="app_name">Updater</string>
+  <string name="normal_check">Normal Check</string>
+  <string name="force_check">Force Check</string>
+
+</resources>
